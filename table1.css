@@ -1,0 +1,52 @@
+
+.tabl1{
+   margin: 60px 0px;
+ }
+table{
+    border-bottom: 1px solid;
+    border-collapse: collapse;
+    margin: auto;
+    width: 60%;
+}
+
+thead{
+    font-size: 20px;
+    background-color:rgb(56, 56, 247);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+ th{
+   font-size: 22px;
+   padding: 8px;
+}
+
+td{
+    border-bottom: 1px solid  blue;
+    font-size: 20px;
+    padding-left: 12px;
+    width: 20%;
+}
+
+ caption{
+    font-size: 30px;
+
+}
+
+.pass{
+    padding-left: 5px;
+    color:green;
+}
+
+.fail{
+    color: red;
+    padding-left: 5px;
+}
+
+.green{
+
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+}
